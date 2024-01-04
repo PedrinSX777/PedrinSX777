@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PedrinSX777
-- 👀 I’m interested in **HTML**, **CSS**, **JS**, **PHP**
-- 🌱 I’m currently learning *HTML*, *CSS*, *JS*
-- 💞️ I’m looking to collaborate on https://underz.cloud
+- 👋 Olá, Sou @PedrinSX777
+- 👀 Sou interessado em **HTML**, **CSS**, **JS**, **PHP**
+- 🌱 Estou aprendendo atualmente *HTML*, *CSS*, *JS*
+- 💞️ Colaborador/Ceo em https://underz.cloud
 - 📫 How to reach me ...
 
 <!---
